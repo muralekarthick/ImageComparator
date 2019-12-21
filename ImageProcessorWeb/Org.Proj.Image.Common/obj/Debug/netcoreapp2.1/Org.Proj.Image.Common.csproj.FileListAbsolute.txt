@@ -1,0 +1,8 @@
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\bin\Debug\netcoreapp2.1\Org.Proj.Image.Common.deps.json
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\bin\Debug\netcoreapp2.1\Org.Proj.Image.Common.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\bin\Debug\netcoreapp2.1\Org.Proj.Image.Common.pdb
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\obj\Debug\netcoreapp2.1\Org.Proj.Image.Common.csprojAssemblyReference.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\obj\Debug\netcoreapp2.1\Org.Proj.Image.Common.AssemblyInfoInputs.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\obj\Debug\netcoreapp2.1\Org.Proj.Image.Common.AssemblyInfo.cs
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\obj\Debug\netcoreapp2.1\Org.Proj.Image.Common.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.Common\obj\Debug\netcoreapp2.1\Org.Proj.Image.Common.pdb

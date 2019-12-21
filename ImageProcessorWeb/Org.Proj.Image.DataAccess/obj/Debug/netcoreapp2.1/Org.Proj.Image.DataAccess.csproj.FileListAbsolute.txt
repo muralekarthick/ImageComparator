@@ -1,0 +1,10 @@
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.deps.json
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.runtimeconfig.json
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.runtimeconfig.dev.json
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.pdb
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\obj\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.csprojAssemblyReference.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\obj\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.AssemblyInfoInputs.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\obj\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.AssemblyInfo.cs
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\obj\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.DataAccess\obj\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.pdb

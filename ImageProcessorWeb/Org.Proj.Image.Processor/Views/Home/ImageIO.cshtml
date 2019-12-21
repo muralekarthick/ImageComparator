@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Image I/O";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Please upload the csv file to compare the images</p>
+
+@using (Html.BeginForm("FileUpload", "ImageIO", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        <input type="file" name="file" />
+    </div>
+    <div class="form-group">
+        <input type="submit" name="Submit" id="Submit" value="Upload" />
+    </div>
+}

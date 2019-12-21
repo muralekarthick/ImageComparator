@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingEngine", "ImageProcessingEngine\ImageProcessingEngine.csproj", "{5185DAE7-92DA-4B17-9AA3-4E638D0B5ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingEngine.Library", "ProcessingEngine.Library\ProcessingEngine.Library.csproj", "{DC0CC48B-D92E-4D09-8830-A32A5A873ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5185DAE7-92DA-4B17-9AA3-4E638D0B5ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5185DAE7-92DA-4B17-9AA3-4E638D0B5ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5185DAE7-92DA-4B17-9AA3-4E638D0B5ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5185DAE7-92DA-4B17-9AA3-4E638D0B5ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0CC48B-D92E-4D09-8830-A32A5A873ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0CC48B-D92E-4D09-8830-A32A5A873ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0CC48B-D92E-4D09-8830-A32A5A873ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0CC48B-D92E-4D09-8830-A32A5A873ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7788303F-7FCB-4F13-B3D9-D862D58032B2}
+	EndGlobalSection
+EndGlobal

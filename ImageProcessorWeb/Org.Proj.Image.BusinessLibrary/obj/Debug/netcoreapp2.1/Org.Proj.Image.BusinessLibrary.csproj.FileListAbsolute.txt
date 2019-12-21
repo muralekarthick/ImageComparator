@@ -1,0 +1,13 @@
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.deps.json
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.pdb
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.Common.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.Common.pdb
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\bin\Debug\netcoreapp2.1\Org.Proj.Image.DataAccess.pdb
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.csprojAssemblyReference.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.AssemblyInfoInputs.cache
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.AssemblyInfo.cs
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.csproj.CopyComplete
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.dll
+C:\Users\muralea\Desktop\Image Comparator\ImageProcessorWeb\Org.Proj.Image.BusinessLibrary\obj\Debug\netcoreapp2.1\Org.Proj.Image.BusinessLibrary.pdb

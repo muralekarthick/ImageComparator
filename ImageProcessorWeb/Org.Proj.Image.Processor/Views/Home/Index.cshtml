@@ -1,0 +1,104 @@
+﻿@using Org.Proj.Image.Processor.Models;
+
+@model IEnumerable<ImageFile>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Image Comparator</h1>
+</div>
+
+@using (Html.BeginForm("ImageUpload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div style="border:groove;padding-left:2%;padding-top:2%">
+        <h2>Upload Image</h2>
+        <div><p>Please upload the image file<p></div>
+
+        <p class="text-success">
+            @ViewBag.ImageUploadedURL
+        </p>
+
+        <p class="text-danger">
+            @ViewBag.UploadImageError
+        </p>
+
+        <div class="form-group">
+            <input type="file" name="file" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="Submit" id="Submit" value="Upload" />
+        </div>
+    </div>
+
+}
+
+<br />
+<br />
+
+@using (Html.BeginForm("FileUpload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div style="border:groove;padding-left:2%;padding-top:2%">
+        <h2>Upload File</h2>
+        <div><p>Please upload the csv file to compare the images<p></div>
+
+        <p class="text-success">
+            @ViewBag.FileUploadedURL
+        </p>
+        <p class="text-danger">
+            @ViewBag.UploadFileError
+        </p>
+        <div class="form-group">
+            <input type="file" name="file" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="Submit" id="Submit" value="Upload" />
+        </div>
+    </div>
+}
+
+<br />
+<br />
+
+<h2>Upload Summary</h2>
+<p class="text-danger">
+    @ViewBag.DownloadFileError
+</p>
+<table border="1" cellpadding="4">
+    <tr>
+        <td style="font-weight:bold">Batch Id</td>
+        <td style="font-weight:bold">File Name</td>
+        <td style="font-weight:bold">Processing Status</td>
+        <td style="font-weight:bold">Uploaded Date</td>
+        <td style="font-weight:bold">Download</td>
+    </tr>
+    @foreach (var data in Model)
+    {
+        <tr>
+            <td>@data.FileInfoId</td>
+            <td>@data.FileName</td>
+            <td>@data.FileStatusDescription</td>
+            <td>@data.UpdatedOn</td>
+            <td>
+                @if (data.FileStatusCode == 3 && data.FilePath != string.Empty)
+                {
+                    @*<a href='@Url.Action("DownloadFile", "Home", new { filePath = data.FilePath })'>
+                        <img src="~/download.jfif" alt="Download CSV File" />
+                    </a>*@
+
+                    <a href="@data.FilePath">
+                        <img src="~/download.jfif" alt="Download CSV File" />
+                    </a>
+
+                }
+                else
+                {
+                    <span>Not Available</span>
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+

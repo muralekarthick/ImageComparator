@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ImageProcessingEngine/ImageProcessingEngine/.vs
+/ImageProcessingEngine/ImageProcessingEngine/ProcessingEngine.Library/bin
+/ImageProcessorWeb/.vs
+/GenerateCsvFile/GenerateCsvFile/.vs/GenerateCsvFile/v16/Server/sqlite3
+/GenerateCsvFile/GenerateCsvFile/.vs/GenerateCsvFile/v16/.suo

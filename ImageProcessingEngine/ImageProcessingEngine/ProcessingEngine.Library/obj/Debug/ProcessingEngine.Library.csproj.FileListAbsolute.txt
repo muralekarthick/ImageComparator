@@ -1,0 +1,10 @@
+C:\SRC\ImageProcessingEngine\ProcessingEngine.Library\bin\Debug\ProcessingEngine.Library.dll
+C:\SRC\ImageProcessingEngine\ProcessingEngine.Library\bin\Debug\ProcessingEngine.Library.pdb
+C:\SRC\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.dll
+C:\SRC\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.pdb
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\bin\Debug\ProcessingEngine.Library.dll
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\bin\Debug\ProcessingEngine.Library.pdb
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.csprojAssemblyReference.cache
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.csproj.CoreCompileInputs.cache
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.dll
+E:\JMS_Personal\PadhaiLikhai2\ImageProcessing\AZFunction2\MuralesFunction\ImageProcessingEngine\ImageProcessingEngine\ProcessingEngine.Library\obj\Debug\ProcessingEngine.Library.pdb
